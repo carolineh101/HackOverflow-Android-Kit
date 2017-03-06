@@ -44,7 +44,7 @@
         android:layout_centerHorizontal="true"
         android:layout_above="@+id/sendEmail"
         android:layout_below="@+id/textView"
-        android:layout_marginTop="20dp">
+        android:layout_marginTop="30dp">
 
         <LinearLayout
             android:orientation="horizontal"
@@ -184,12 +184,6 @@
                     android:id="@+id/business"
                     android:layout_weight="1" />
 
-                <RadioButton
-                    android:text="Formal"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/formal"
-                    android:layout_weight="1" />
             </LinearLayout>
 
             <LinearLayout
@@ -214,13 +208,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:id="@+id/coffee"
-                    android:layout_weight="1" />
-
-                <RadioButton
-                    android:text="Lunch"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/lunch"
                     android:layout_weight="1" />
 
                 <RadioButton
@@ -252,7 +239,7 @@
                 android:layout_height="wrap_content"
                 android:inputType="textEmailAddress"
                 android:ems="10"
-                android:id="@+id/editText6"
+                android:id="@+id/signature"
                 android:layout_weight="10.04"
                 android:hint="Grace" />
         </LinearLayout>
