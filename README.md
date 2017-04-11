@@ -14,7 +14,7 @@ Download Android Studio [here](https://developer.android.com/studio/index.html).
 ### The UI
 1. On the left sidebar, go to Projects -> app -> res -> layout -> activity_main.xml. You should see a palette of UI elements like labels (```TextView```s), text fields (```EditText```s), and buttons on the left. You can drag these onto the screen to add elements.
 2. Below the palette is the component tree, which shows how these elements are organized on the screen (we use ```LinearLayout```s to structure and group them).
-3. Currently, the screen is already populated with a number of different elements to create a UI for a form to fill out; you can either click on the elements in the component tree or directly on the element on the screen to get more information about its properties (which can be edited) on the right. Notice that some of the elements have IDs – these will be used in the code later.
+3. Currently, the screen is already populated with a number of different elements to create a UI for a form to fill out; you can either click on the elements in the component tree or directly on the element on the screen to get more information about its properties (which can be edited) on the right. Notice that we've given some of the elements IDs – these will be used in the code later.
 
 ### The Code
 1. On the left sidebar, go to Projects -> app -> java -> (top option) -> MainActivity.
