@@ -1,7 +1,7 @@
 # HackOverflow Android Development Kit
 
 ### Description
-This tutorial will walk you through an Android app (written in Java) which sends auto-formatted follow-up letters.
+This tutorial will walk you through an Android app (written in Java) which sends auto-formatted follow-up letters. You can download the app (APK file) in the [release](https://github.com/carolineh101/HackOverflow-Android-Kit/releases) section of this repository.
 
 ### Before Starting...
 Download Android Studio [here](https://developer.android.com/studio/index.html).
