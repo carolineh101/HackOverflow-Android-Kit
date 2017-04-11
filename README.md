@@ -20,4 +20,6 @@ Download Android Studio [here](https://developer.android.com/studio/index.html).
 1. On the left sidebar, go to Projects -> app -> java -> (top option) -> MainActivity.
 
 ### Now That You're Done...
+- Want to download your app to your phone? In the menu, go to Build -> Build APK. The file created can be opened as an app on your Android phone.
+- Check out the [Android developer website](https://developer.android.com/training/index.html) for references.
 - Interested in taking an Android dev class in the future? Sign up for CS 193A!
